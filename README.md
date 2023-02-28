@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="adam_white.svg">
   <source media="(prefers-color-scheme: light)" srcset="adam.svg">
   <img alt="adam" src="adam.svg" width="200">
 </picture>
+-->
 
 I'm a Computer Science graduate student at University of Chinese Academy of Sciences🇨🇳 in Chengdu🐼, interested in **Deep Reinforcement Learning**🤖️.
 

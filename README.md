@@ -10,7 +10,7 @@
 
 I'm a Computer Science graduate student at University of Chinese Academy of Sciences🇨🇳 in Chengdu🐼, interested in **Deep Reinforcement Learning**🤖️.
 
-Recently I've been working on [**abcdRL**](https://abcdrl.xyz)🌟(A Modular Single-file Reinforcement Learning Algorithms Library), check it out! 🤠 👇
+Recently I've been working on [**abcdRL**](https://abcdrl.xyz)🌟(A Modular Single-file Reinforcement Learning Algorithms Library), check it out! 🤠
 
 Happy to discuss anything with you via email or social media! 📡 👇
 

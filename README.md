@@ -8,7 +8,7 @@
 </picture>
 -->
 
-I'm a Computer Science Ph.D student at University of Chinese Academy of Sciences🇨🇳 in Chengdu🐼, focusing on **Deep Reinforcement Learning**🤖️.
+I'm a Computer Science PhD student at University of Chinese Academy of Sciences🇨🇳 in Chengdu🐼, focusing on **Deep Reinforcement Learning**🤖️.
 
 Recently I've been working on [**abcdRL**](https://abcdrl.xyz)🌟(A Modular Single-file Reinforcement Learning Algorithms Library), check it out! 🤠
 

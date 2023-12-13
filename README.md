@@ -20,10 +20,6 @@ Happy to discuss anything with you via email or social media! 📡 👇
 [![twitter](https://img.shields.io/badge/Twitter-@sdpkjc%5F_adam-1DA1F2?logo=twitter)](https://twitter.com/sdpkjc_adam)
 [![discord](https://img.shields.io/badge/Discord-@sdpkjc-5865F2?logo=discord)](https://discord.com/users/sdpkjc)
 [![mastodon](https://img.shields.io/badge/Mastodon-@sdpkjc@masto.ai-6364FF?logo=mastodon)](https://masto.ai/@sdpkjc)
-[![spotify](https://img.shields.io/badge/Spotify-@sdpkjc-1DB954?logo=spotify)](https://open.spotify.com/user/316tmwa7yte4oqibi6lhrwnjyjji?si=hI0q4KFmSKO4GdWW1jpkLA)
-[![bilibili](https://img.shields.io/badge/Bilibili-@斯蒂庞克轿车-00A1D6?logo=bilibili)](https://space.bilibili.com/95671510/)
-[![Zhihu](https://img.shields.io/badge/Zhihu-@斯蒂庞克轿车-0084FF?logo=zhihu)](https://www.zhihu.com/people/01cc6dd991be4e1958be4e1a2b95a1c6)
-[![SinaWeibo](https://img.shields.io/badge/SinaWeibo-@斯蒂庞克轿车-E6162D?logo=SinaWeibo)](https://weibo.com/u/7759690796)
 
 [![github](https://img.shields.io/badge/GitHub-@sdpkjc-181717?logo=github)](https://github.com/sdpkjc)
 [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-@sdpkjc-F8D521)](https://huggingface.co/sdpkjc)
@@ -32,6 +28,5 @@ Happy to discuss anything with you via email or social media! 📡 👇
 [![weights and biases](https://img.shields.io/badge/Weights%20&%20Biases-@iiiiiiiooo-FFBE00?logo=weightsandbiases)](https://wandb.ai/iiiiiiiooo)
 
 <!--[![gitlab](https://img.shields.io/badge/GitLab-@sdpkjc-FC6D26?logo=gitlab)](https://gitlab.com/users/sdpkjc)-->
-<!--[![gitee](https://img.shields.io/badge/Gitee-@sdpkjc-C71D23?style=flat&logoColor=C71D23&logo=gitee&labelColor=white)](https://gitee.com/sdpkjc/)-->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sdpkjc&count_private=true&show_icons=true&include_all_commits=true)
